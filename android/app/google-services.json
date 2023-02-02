@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "157788674817",
+    "project_id": "crashapp-27531",
+    "storage_bucket": "crashapp-27531.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157788674817:android:3448179a16edbe2a6fd900",
+        "android_client_info": {
+          "package_name": "com.example.post_hog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157788674817-oknu3lb2h6q81g44uimarveklnlqocho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Lyukdc9KmtGRw11uas1cq4WQjJaHvkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157788674817-oknu3lb2h6q81g44uimarveklnlqocho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
